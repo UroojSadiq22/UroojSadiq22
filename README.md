@@ -26,8 +26,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uroojsadiq&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroojsadiq&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uroojsadiq22&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroojsadiq22&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -38,18 +38,12 @@
 
 ---
 
-### ✍️ I Write Sometimes
-
-- 🧠 [LinkedIn Posts](https://www.linkedin.com/in/uroojsadiq/) about learning, dev life & project stories
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uroojsadiq/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:uroojsadiq.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/uroojsadiq"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/urooj-sadiq-a91031212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:uroojsadiq1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/UroojSadiq22"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
 </p>
 
 ---
