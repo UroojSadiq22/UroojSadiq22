@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Urooj Sadiq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F61D1&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;Always+Learning+%F0%9F%93%9A+Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F61D1&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;Always+Learning+And+%F0%9F%93%9A+Building%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
