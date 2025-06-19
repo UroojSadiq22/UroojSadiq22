@@ -30,6 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroojsadiq22&layout=compact&theme=radical" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uroojsadiq&label=Profile+Views&color=9F61D1&style=flat-square" alt="profile views" />
+</p>
+
 ---
 
 ### 
@@ -44,12 +48,6 @@
   <a href="https://www.linkedin.com/in/urooj-sadiq-a91031212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:uroojsadiq1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/UroojSadiq22"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uroojsadiq&label=Profile+Views&color=9F61D1&style=flat-square" alt="profile views" />
 </p>
 
 ---
