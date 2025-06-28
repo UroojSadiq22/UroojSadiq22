@@ -48,6 +48,9 @@
   <a href="https://www.linkedin.com/in/urooj-sadiq-a91031212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:uroojsadiq1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/UroojSadiq22"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+  <a href="https://x.com/UroojSadiq1151"><img src="https://img.shields.io/badge/X-000000?logo=twitter&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://medium.com/@uroojsadiq1998"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0109b5562b0c58f6df"><img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&style=for-the-badge&logoColor=black" /></a>
 </p>
 
 ---
